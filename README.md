@@ -1,3 +1,8 @@
+# DEPRECATED
+
+This working group merged in the #g-agile.
+
+
 ## 18F Agile Design Working Group
 
 This is the repository for the [18F Agile Design Working
