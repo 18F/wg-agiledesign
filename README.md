@@ -1,3 +1,8 @@
+# DEPRECATED
+
+This working group merged with the [Agile Guild](https://gsa-tts.slack.com/archives/g-agile).
+
+
 ## 18F Agile Design Working Group
 
 This is the repository for the [18F Agile Design Working
