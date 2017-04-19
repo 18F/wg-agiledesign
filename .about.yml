@@ -24,7 +24,7 @@ owner_type: working-group
 
 # Whether or not the project is actively maintained (required)
 # values: active, deprecated
-#status:
+status: deprecated
 
 # Description of the project
 description: |
